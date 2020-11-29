@@ -14,7 +14,20 @@
 -   🎵 I like music and playing musical instruments
 -   ♟️ I like Chess
 -   🤔 I am also a Cuber
--   <img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/63810712?s=400&u=980621234ff82db0038996cdbff6e43ea4ec5aae&v=4" /> I made this avatar in Blender myself ;)
+-   <img align="left" alt="My Avatar" width="26px" src="https://avatars3.githubusercontent.com/u/63810712?s=400&u=980621234ff82db0038996cdbff6e43ea4ec5aae&v=4" /> I made this avatar in Blender myself ;)
+
+### Some of the Languages and Tools I use
+
+<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VS" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
+
+<br/>
+<br/>
 
 ### Connect with me
 
