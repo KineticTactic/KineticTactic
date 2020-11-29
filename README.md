@@ -14,7 +14,7 @@
 -   🎵 I like music and playing musical instruments
 -   ♟️ I like Chess
 -   🤔 I am also a Cuber
--   [<img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/63810712?s=400&u=980621234ff82db0038996cdbff6e43ea4ec5aae&v=4" />] I made my avatar in Blender ;)
+-   <img align="left" alt="Visual Studio Code" width="26px" src="https://avatars3.githubusercontent.com/u/63810712?s=400&u=980621234ff82db0038996cdbff6e43ea4ec5aae&v=4" /> I made this avatar in Blender myself ;)
 
 ### Connect with me
 
