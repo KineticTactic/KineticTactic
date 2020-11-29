@@ -15,6 +15,10 @@
 -   ♟️ I like Chess
 -   🤔 I am also a Cuber
 
+### Connect with me
+
+My Discord ID: KineticTactic#0172
+
 <!--
 **KineticTactic/KineticTactic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
