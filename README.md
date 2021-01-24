@@ -1,4 +1,4 @@
-### Hi! I am Rudrajeet, aka KineticTactic
+### Hi! I am KineticTactic
 
 ## I am an 8th grader, and coding is one of my hobbies!
 
