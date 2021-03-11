@@ -1,6 +1,6 @@
 ### Hi! I am KineticTactic
 
-## I am an 8th grader, and coding is one of my hobbies!
+## I am a 9th grader, and coding is one of my hobbies!
 
 ### Some of my current projects
 
