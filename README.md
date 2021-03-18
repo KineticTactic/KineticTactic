@@ -4,8 +4,7 @@
 
 ### Some of my current projects
 
--   I am working on a crude game engine
--   I am also making a Discord Bot :D
+-   Working on my site [https://kinetictactic.github.io](https://kinetictactic.github.io)
 -   Random stuff
 -   ¯\\\_(ツ)\_/¯
 
@@ -15,6 +14,10 @@
 -   ♟️ I like Chess
 -   🤔 I am also a Cuber
 -   <img align="left" alt="My Avatar" width="26px" src="https://avatars3.githubusercontent.com/u/63810712?s=400&u=980621234ff82db0038996cdbff6e43ea4ec5aae&v=4" /> I made this avatar in Blender myself ;)
+
+### Some of my github stats
+
+[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=radical)](https://github.com/KineticTactic)
 
 ### Some of the Languages and Tools I use
 
@@ -28,8 +31,6 @@
 
 <br/>
 <br/>
-
-[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=radical)](https://github.com/KineticTactic)
 
 ### Connect with me
 
