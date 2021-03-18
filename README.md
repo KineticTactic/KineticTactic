@@ -17,7 +17,7 @@
 
 ### Some of my Github stats
 
-[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=radical)](https://github.com/KineticTactic)
+[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=onedark)](https://github.com/KineticTactic)
 
 ### Some of the Languages and Tools I use
 
