@@ -29,6 +29,8 @@
 <br/>
 <br/>
 
+[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=radical)](https://github.com/KineticTactic)
+
 ### Connect with me
 
 My Discord ID: KineticTactic#0187
