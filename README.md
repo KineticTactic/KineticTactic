@@ -15,9 +15,9 @@
 -   🤔 I am also a Cuber
 -   <img align="left" alt="My Avatar" width="26px" src="https://avatars3.githubusercontent.com/u/63810712?s=400&u=980621234ff82db0038996cdbff6e43ea4ec5aae&v=4" /> I made this avatar in Blender myself ;)
 
-### Some of my Github stats
-
 [![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=dark)](https://github.com/KineticTactic)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KineticTactic&v=2&layout=compact&theme=dark)](https://wakatime.com/@KineticTactic)
 
 ### Some of the Languages and Tools I use
 
