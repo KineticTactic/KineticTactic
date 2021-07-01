@@ -4,7 +4,7 @@
 
 ### Some of my current projects
 
--   Working on my site [https://kinetictactic.github.io](https://kinetictactic.github.io)
+-   Working on my site [https://kinetictactic.ml](https://kinetictactic.ml)
 -   Random stuff
 -   ¯\\\_(ツ)\_/¯
 
@@ -19,22 +19,9 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KineticTactic&v=2&layout=compact&theme=dark)](https://wakatime.com/@KineticTactic)
 
-### Some of the Languages and Tools I use
-
-<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="VS" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" />
-
-<br/>
-<br/>
-
 ### Connect with me
 
-My Discord ID: KineticTactic#0187
+[Discord](https://discord.com/users/733608333575192606)
 
 <!--
 **KineticTactic/KineticTactic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
