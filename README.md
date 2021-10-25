@@ -18,6 +18,8 @@ I am a 14 y/o with an interest in programming and software development. I also p
 
 [![KineticTactic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KineticTactic&v=2&layout=compact&theme=dark)](https://wakatime.com/@KineticTactic)
 
+[![wakatime](https://wakatime.com/badge/user/fcb00b2d-3af9-47c3-9def-658baac87293.svg)](https://wakatime.com/@fcb00b2d-3af9-47c3-9def-658baac87293)
+
 ---
 
 #### 📫 How to reach me
