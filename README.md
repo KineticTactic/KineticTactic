@@ -1,6 +1,6 @@
 ### Hi! I am KineticTactic
 
-I am a 14 y/o with an interest in programming and software development. I also play music!
+I am a 15y/o with an interest in programming and software development. I also play music!
 
 ---
 
