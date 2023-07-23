@@ -13,7 +13,7 @@ I am a 16y/o with an interest in programming and software development. I also pl
 
 #### ⚡Random stats
 
-<!--[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=dark)](https://github.com/KineticTactic)-->
+[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=dark)](https://github.com/KineticTactic)
 
 <!--[![KineticTactic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KineticTactic&v=2&layout=compact&theme=dark)](https://wakatime.com/@KineticTactic)-->
 
