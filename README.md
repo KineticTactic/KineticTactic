@@ -1,28 +1,27 @@
-### Hi! I am KineticTactic
+### Hey! I am kinetic
 
-I am a 15y/o with an interest in programming and software development. I also play music!
+I am a 16y/o with an interest in programming and software development. I also play music!
 
 ---
 
 #### 🔭 I'm currently working on
 
--   My site [https://kinetictactic.me](https://kinetictactic.me)
--   Cool looking simulations (Ant Colony simulation, Slime mould simulations)
--   A Game of Life Playground
+-   My site [https://kinetictactic.tech](https://kinetictactic.tech)
+-   [Light Playground](https://github.com/KineticTactic/light-playground)
 
 ---
 
 #### ⚡Random stats
 
-[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=dark)](https://github.com/KineticTactic)
+<!--[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=dark)](https://github.com/KineticTactic)-->
 
-[![KineticTactic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KineticTactic&v=2&layout=compact&theme=dark)](https://wakatime.com/@KineticTactic)
+<!--[![KineticTactic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KineticTactic&v=2&layout=compact&theme=dark)](https://wakatime.com/@KineticTactic)-->
 
 [![wakatime](https://wakatime.com/badge/user/fcb00b2d-3af9-47c3-9def-658baac87293.svg)](https://wakatime.com/@fcb00b2d-3af9-47c3-9def-658baac87293)
 
 ---
 
-#### 📫 How to reach me
+#### 📫 Contact me
 
 - [Discord](https://discord.com/users/733608333575192606)
 - [Twitter](https://twitter.com/TacticKinetic)
