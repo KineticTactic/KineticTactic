@@ -1,4 +1,4 @@
-### Hey! I am kinetic
+### Hey! I am Rudrajeet, aka kinetic
 
 I am a 16y/o with an interest in programming and software development. I also play music!
 
