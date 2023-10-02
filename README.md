@@ -9,6 +9,7 @@ I am a 16y/o with an interest in programming and software development. I also pl
 -   My site [https://kinetictactic.tech](https://kinetictactic.tech)
 -   [Light Playground](https://github.com/KineticTactic/light-playground)
 
+-   [polyly](https://github.com/KineticTactic/polyly)
 ---
 
 #### ⚡Random stats
