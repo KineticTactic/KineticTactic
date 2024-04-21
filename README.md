@@ -7,7 +7,7 @@ I am a 16y/o with an interest in programming and software development. I also pl
 #### 🔭 I'm currently working on
 
 -   My site [https://kinetictactic.tech](https://kinetictactic.tech)
--   [Light Playground](https://github.com/KineticTactic/light-playground)
+-   [Reflecta](https://github.com/KineticTactic/Reflecta)
 
 -   [polyly](https://github.com/KineticTactic/polyly)
 ---
