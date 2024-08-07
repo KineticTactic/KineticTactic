@@ -6,7 +6,8 @@ I am a 16y/o with an interest in programming and software development. I also pl
 
 #### 🔭 I'm currently working on
 
--   My site [https://kinetictactic.tech](https://kinetictactic.tech)
+-   Some random [OpenGL world generation](https://github.com/KineticTactic/OpenGL-Renderer)
+
 -   [Reflecta](https://github.com/KineticTactic/Reflecta)
 
 -   [polyly](https://github.com/KineticTactic/polyly)
