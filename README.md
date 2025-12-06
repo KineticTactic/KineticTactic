@@ -1,19 +1,22 @@
-### Hey! I am Rudrajeet, aka kinetic
+### Hey! I am Rudrajeet.
 
-I am a 17y/o with an interest in programming and software development. I also play music!
+I love graphics programming - everything from low-level graphics APIs([OpenGL](https://github.com/KineticTactic/OpenGL-Renderer), [Vulkan](https://github.com/KineticTactic/HelloVulkan)) to [Compute Shaders](https://github.com/KineticTactic/game-of-life) and [Raytracing](https://github.com/KineticTactic/rust-raytracer). I also love writing [simulations](https://github.com/KineticTactic/orbits). Other than that, I develop and build websites and webapps using React/Svelte/Vue.
+
+All of the hyperlinks above are some of my projects :)
 
 ---
 
-#### 🔭 I'm currently working on
+#### Some of my recent projects
 
--   Some random [OpenGL world generation](https://github.com/KineticTactic/OpenGL-Renderer)
+-   [Reflecta](https://github.com/KineticTactic/Reflecta) - An open sandbox type webapp to play around with Ray Optics. Built with TypeScript and a custom rendering library I made ([polyly](https://github.com/KineticTactic/polyly))
 
--   [Reflecta](https://github.com/KineticTactic/Reflecta)
+-   [Raytracing in Rust](https://github.com/KineticTactic/rust-raytracer) - Currently learning Rust and following along with the book [Ray Tracing in One Weeked](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
--   [polyly](https://github.com/KineticTactic/polyly)
+-   [Beam Analyser](https://github.com/KineticTactic/BeamAnalyser) - An interactive web app for visualizing and analyzing beams under various loads and supports
+
 ---
 
-#### ⚡Random stats
+#### Random stats
 
 [![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=dark)](https://github.com/KineticTactic)
 
@@ -23,10 +26,9 @@ I am a 17y/o with an interest in programming and software development. I also pl
 
 ---
 
-#### 📫 Contact me
+#### Connect with me
 
-- [Discord](https://discord.com/users/733608333575192606)
-- [Twitter](https://twitter.com/TacticKinetic)
+- [LinkedIn](https://www.linkedin.com/in/rudrajeet-pal/)
 - Email (rudrajeetpal64@gmail.com)
 
 <!--
