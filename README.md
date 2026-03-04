@@ -18,9 +18,8 @@ All of the hyperlinks above are some of my projects :)
 
 #### Random stats
 
-[![KineticTactic's GitHub stats](https://github-readme-stats.vercel.app/api?username=KineticTactic&show_icons=true&theme=dark)](https://github.com/KineticTactic)
-
-<!--[![KineticTactic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KineticTactic&v=2&layout=compact&theme=dark)](https://wakatime.com/@KineticTactic)-->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KineticTactic?cardType=octocat&theme=midnight-purple&fontFamily=Fira%20Code&preferLogin=false)](https://git.io/awesome-stats-card)
+![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=kinetictactic&theme=chaos_theory&wordValue=100&timeValue=30)
 
 [![wakatime](https://wakatime.com/badge/user/fcb00b2d-3af9-47c3-9def-658baac87293.svg)](https://wakatime.com/@fcb00b2d-3af9-47c3-9def-658baac87293)
 
